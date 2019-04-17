@@ -1,0 +1,10 @@
+{
+	"values":
+	[
+		"main:animations/entities/armor_stand/spin",
+		"main:levels/buttons",
+		"main:levels/leave",
+		"main:levels/protections",
+		"main:inventory"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"values":
+	[
+		"main:setup/animations",
+		"main:setup/armor_stands",
+		"main:setup/gamerules",
+		"main:setup/signs"
+	]
+}
